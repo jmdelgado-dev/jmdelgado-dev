@@ -1,6 +1,6 @@
 # Hola, soy Jose Manuel 👋
 
-🎓 Técnico en SMIR | Cursando DAW en IES Aguadulce  
+🎓 Técnico en SMR | Cursando DAW en IES Aguadulce  
 ☁️ Preparando AWS Cloud Practitioner  
 🔐 Interesado en Cloud Security y Ciberseguridad  
 💼 Asociado en Amazon Logistics | Amazon Robotics (AFM)  
